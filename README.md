@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 🔭 I’m currently looking for a data analyst Job
+and detail-oriented Reporting & BI professional with 2.5+ years of hands-on experience in KPI dashboard development, SLA reporting, and operations analytics across logistics and BPO environments. Proficient in SQL, Python, Power BI, Tableau, and Excel — with a consistent track record of automating reporting workflows and delivering stakeholder-ready insights. Currently pursuing Minor in Business Analytics with Gen & Agentic AI at BITSoM, BITS Pilani. Targeting Data Analyst, BI Analyst, and Reporting Analyst roles.
 - 📫 How to reach me **simranjaiswal4976@gmail.com**
-- 🏫 I’m currently learning Python.
+
 
 ## Tech/Software Stack
 
